@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="62.5" viewBox="0 0 24 62.5">
+  <g id="Group_236" data-name="Group 236" transform="translate(-97 -1029.5)">
+    <line id="Line_8" data-name="Line 8" y2="43" transform="translate(108.5 1029.5)" fill="none" stroke="#e8e8e8" stroke-width="2" stroke-dasharray="2 2"/>
+    <g id="sharp-keyboard_arrow_right-24px" transform="translate(121 1068) rotate(90)">
+      <path id="Path_4" data-name="Path 4" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_5" data-name="Path 5" d="M8.59,16.59,13.17,12,8.59,7.41,10,6l6,6-6,6Z" fill="#e8e8e8"/>
+    </g>
+  </g>
+</svg>

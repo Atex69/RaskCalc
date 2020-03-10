@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.94" height="96.94" viewBox="0 0 96.94 96.94">
+  <g id="_4" data-name="4" transform="translate(-255 -1628)">
+    <g id="Group_236" data-name="Group 236">
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="41.5" cy="41.5" r="41.5" transform="translate(262 1635)" fill="#f5dfe1"/>
+      <g id="круг" transform="translate(255 1628)">
+        <path id="Path_9" data-name="Path 9" d="M17.74,31.511a1.063,1.063,0,0,1-.983-1.467A48.482,48.482,0,0,1,95.875,14.2a1.063,1.063,0,0,1-1.5,1.5A46.357,46.357,0,0,0,18.724,30.852,1.063,1.063,0,0,1,17.74,31.511Z" transform="translate(-13.132)" fill="#bb2636"/>
+        <path id="Path_10" data-name="Path 10" d="M48.47,232.015A48.469,48.469,0,0,1,0,183.545a48.7,48.7,0,0,1,1.3-11.183,1.063,1.063,0,1,1,2.069.489,46.386,46.386,0,0,0,45.1,57.039,45.968,45.968,0,0,0,19.27-4.184,1.063,1.063,0,0,1,.885,1.933A48.079,48.079,0,0,1,48.47,232.015Z" transform="translate(0 -135.075)" fill="#bb2636"/>
+        <path id="Path_11" data-name="Path 11" d="M350.238,388.38a1.063,1.063,0,0,1-.6-1.939,46.67,46.67,0,0,0,6.55-5.449,1.063,1.063,0,0,1,1.5,1.5,48.825,48.825,0,0,1-6.849,5.7A1.059,1.059,0,0,1,350.238,388.38Z" transform="translate(-274.944 -299.753)" fill="#bb2636"/>
+        <path id="Path_12" data-name="Path 12" d="M404.534,154.021a1.063,1.063,0,0,1-.859-1.688,46.366,46.366,0,0,0,.783-53.345,1.063,1.063,0,0,1,1.755-1.2,48.492,48.492,0,0,1-.819,55.795A1.062,1.062,0,0,1,404.534,154.021Z" transform="translate(-317.699 -76.635)" fill="#bb2636"/>
+      </g>
+      <g id="noun_Calculator_2252753" transform="translate(279 1652)">
+        <path id="Path_17" data-name="Path 17" d="M11,2A2,2,0,0,0,9,4V44a2,2,0,0,0,2,2H37a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2Zm0,42V4H37V44Z" fill="#bb2636"/>
+        <path id="Path_18" data-name="Path 18" d="M13,19H35V6H13ZM15,8H33v9H15Z" fill="#bb2636"/>
+        <rect id="Rectangle_39" data-name="Rectangle 39" width="4" height="2" transform="translate(14 22)" fill="#bb2636"/>
+        <rect id="Rectangle_40" data-name="Rectangle 40" width="4" height="2" transform="translate(22 22)" fill="#bb2636"/>
+        <rect id="Rectangle_41" data-name="Rectangle 41" width="4" height="2" transform="translate(30 22)" fill="#bb2636"/>
+        <rect id="Rectangle_42" data-name="Rectangle 42" width="4" height="2" transform="translate(14 28)" fill="#bb2636"/>
+        <rect id="Rectangle_43" data-name="Rectangle 43" width="4" height="2" transform="translate(22 28)" fill="#bb2636"/>
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="4" height="2" transform="translate(30 28)" fill="#bb2636"/>
+        <rect id="Rectangle_45" data-name="Rectangle 45" width="4" height="2" transform="translate(14 34)" fill="#bb2636"/>
+        <rect id="Rectangle_46" data-name="Rectangle 46" width="4" height="2" transform="translate(22 34)" fill="#bb2636"/>
+        <rect id="Rectangle_47" data-name="Rectangle 47" width="4" height="2" transform="translate(30 34)" fill="#bb2636"/>
+        <rect id="Rectangle_48" data-name="Rectangle 48" width="4" height="2" transform="translate(14 40)" fill="#bb2636"/>
+        <rect id="Rectangle_49" data-name="Rectangle 49" width="4" height="2" transform="translate(22 40)" fill="#bb2636"/>
+        <rect id="Rectangle_50" data-name="Rectangle 50" width="4" height="2" transform="translate(30 40)" fill="#bb2636"/>
+      </g>
+    </g>
+  </g>
+</svg>

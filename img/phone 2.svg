@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="phone_2" data-name="phone 2" transform="translate(-975 -4445)">
+    <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(975 4445)" fill="none" stroke="#bb2636" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <g id="sharp-call-24px" transform="translate(979 4449)">
+      <path id="Path_137" data-name="Path 137" d="M0,0H16.4V16.4H0Z" fill="none"/>
+      <path id="Path_138" data-name="Path 138" d="M15.3,11.512,11.7,11.1,9.976,12.817a10.278,10.278,0,0,1-4.5-4.5L7.2,6.587,6.785,3H3.021A11.614,11.614,0,0,0,15.3,15.277V11.512Z" transform="translate(-0.951 -0.951)" fill="#bb2636"/>
+    </g>
+  </g>
+</svg>

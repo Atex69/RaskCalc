@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="calculator-styleGoroj.css">
+    <link rel="stylesheet" type="text/css" href="media.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.typekit.net/qbq0gsx.css">
+    <title>Title</title>
+</head>
+
+
+<body>
+<div class="menu-container">
+    <a href="http://rask.group/">
+        <div class="grafic-logo-container">
+            <img class="grafic-logo" src="img/logo.svg" alt="logo">
+        </div>
+    </a>
+
+    <nav class="nav-container">
+        <div class="topnav" id="myTopnav">
+            <ul class="topmenu">
+                <li class="topmenu-element usl"><a href="/o-kompanii/" class="down">О компании</a>
+                </li>
+                <li class="topmenu-element prod"><a href="/products/">Продукция</a></li>
+                <li class="topmenu-element comp"><a href="/projects/" class="down">Проекты</a>
+                </li>
+                <li class="topmenu-element press"><a href="/news/">Новости</a></li>
+                <li class="topmenu-element press"><a href="/contacts/">Контакты</a></li>
+                <li class="topmenu-element cont"><a href="/contacts/">Контакты</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="menu-container-right-container-1">
+        <a href="#">8-800-5055-917</a>
+
+    </div>
+    <div class="menu-container-right-element">
+        <button class="nav-container-element menu-container-right-element menu-container-right-element-button">
+            <a data-toggle="modal" data-target="#">Заказать звонок</a>
+        </button>
+        <div class="menu-container-img"></div>
+    </div>
+    <div class="burger">
+        <input type="checkbox" id="nav-toggle" hidden>
+        <label for="nav-toggle" class="nav-toggle" onclick></label>
+        <input type="checkbox" id="hmt" class="hidden-menu-ticker">
+        <label class="btn-menu" for="hmt">
+            <span class="first"></span>
+            <span class="second"></span>
+            <span class="third"></span>
+        </label>
+        <div class="btn-menu-empty"></div>
+        <div class="hidden-menu">
+
+
+
+
+            <div id="myNav" class="overlay on">
+                <div class="overlay-content">
+                    <div class="container">
+                        <div class="row menu-columns">
+                            <div class="col-md-4">
+                                <a href="/calc/" class="btn btn-primary" id="samuel">Рассчитать стоимость проекта</a>
+                                <p><strong>Для связи</strong></p>
+                                <p><a href="">8-800-5055-917</a></p>
+                                <p>г. Уфа, ул. Кооперативная, 67</p>
+                                <p><a href="mailto:info@solncekrug.ru">info@solncekrug.ru</a></p>
+                                <p><a href="http://vk.com/club30452462">vk.com/club30452462</a></p>
+                            </div>
+                            <div class="col-md-3" id="ColTittle">
+                                <h4 >Продукция</h4>
+                                <div class="menu-products">
+                                    <ul>
+                                        <li><a href="">— Видеоэкран 3х4</a></li>
+                                        <li><a href="">— Видеоэкран 3х6</a></li>
+                                        <li><a href="">— Видеоэкран 4х8</a></li>
+                                        <li><a href="">— Видеоэкран 4х12</a></li>
+                                        <li><a href="">— Видеоэкран 5х10</a></li>
+                                        <li><a href="">— Видеоэкран 5х15</a></li>
+                                        <li><a href="">— Остановочный павильон «Столица»</a></li>
+                                        <li><a href="">— Остановочный павильон «Столица Long»</a></li>
+                                        <li><a href="">— Остановочный павильон «Горожанин»</a></li>
+                                        <li><a href="">— Остановочный павильон «Горожанин Long»</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="menu-products last-menu-products">
+                                    <ul>
+                                        <li><a href="">— Остановочный павильон «Городской стандарт»</a></li>
+                                        <li><a href="">— Остановочный павильон «Трасса»</a></li>
+                                        <li><a href="">— Ситиборд</a></li>
+                                        <li><a href="">— Ситиформат</a></li>
+                                        <li><a href="">— Ситиформат с урнами</a></li>
+                                        <li><a href="">— Пиллар «Круглый»</a></li>
+                                        <li><a href="">— Пиллар «Треугольный»</a></li>
+                                        <li><a href="">— Уличный указатель</a></li>
+                                        <li><a href="">— Велопарковки</a></li>
+                                        <li><a href="">— Скамейки</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+
+                            <div class="col-md-2">
+                                <div class="overlay-menu">
+                                    <ul>
+                                        <li>
+                                            <a href="/o-kompanii/">О компании</a>
+                                        </li>
+                                        <li>
+                                            <a href="/products/">Продукция</a>
+                                        </li>
+                                        <li>
+                                            <a href="/projects/">Проекты</a>
+                                        </li>
+                                        <li>
+                                            <a href="/news/">Новости</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contacts/">Контакты</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlay-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                © 2019. RASK construction
+                            </div>
+                            <div class="col-md-5">
+                                Политика обработки персональных данных
+                            </div>
+                            <div class="col-md-3">
+                                <div class="overlay-footer-copy">Create in <a target="_blank" href="https://whtrbbt.com">White Rabbit Agency</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content-container">
+    <img class="grids" src="img/grid%202.svg">
+    <div class="product">
+
+        <div class="content-img">
+            <img class="content-img-base" src="img/calculGoroj/gorojan_baza_mini.jpg">
+            <img class="content-img-urna" src="img/calculGoroj/gojanin_min_urna.png">
+            <img class="content-img-map" src="img/calculGoroj/turmap.png">
+            <img class="content-img-marker" src="img/calculGoroj/gor_mini_marker.png">
+            <img class="content-img-usb" src="img/calculGoroj/usbicon.png">
+            <img class="content-img-wifi" src="img/calculGoroj/wifiicon.png">
+            <img class="content-img-tablo" src="img/calculGoroj/gor_min_eltablo.png">
+            <img class="content-img-police" src="img/calculGoroj/Znak.png">
+            <img class="content-img-sound" src="img/calculGoroj/Loud.png">
+            <img class="content-img-camIcon" src="img/calculGoroj/CamIcon.png">
+            <img class="content-img-cam" src="img/calculGoroj/gor_min_kup_kam.png">
+            <img class="content-img-citicLeft" src="img/calculGoroj/gor_min_sitiformat_left.png">
+            <img class="content-img-citicRight" src="img/calculGoroj/gor_min_sitic_right.png">
+
+
+        </div>
+
+        <div class="product-table">
+
+            <div class="product-name left" style="grid-area: 1 / 1 / 2 / 2; ">
+                <p>Павильон:</p>
+                <abbr>«Горожанин»</abbr>
+
+            </div>
+            <div class="product-compl right" style="grid-area: 1 / 2 / 2 / 3; ">
+                <p>Итого:</p>
+            </div>
+
+            <div class="total-name left" style="grid-area: 2 / 1 / 3 / 2; ">
+                <p>Комплектация:</p>
+                <abbr id="complectIndicator">Стандарт</abbr>
+            </div>
+            <div class="price right" style="grid-area: 2 / 2 / 3 / 3;">
+                <abbr id="final-price"><span></span>Р</abbr>
+            </div>
+        </div>
+        <div class="product-tableInfo">
+            <div class="product-tableInfo-tittle">
+                Технические характеристики:
+            </div>
+            <div class="product-tableInfo-desc" id="product-tableInfo-desc">
+            </div>
+        </div>
+    </div>
+    <div class="opinion">
+        <div class="opinion-container">
+            <div class="tittle">
+                <h1>Остановочный павильон «Горожанин»</h1>
+            </div>
+            <div class="size">Размер: 4750 х 2630 х 1800</div>
+            <div class="opinion-name">
+                <h3>Выберите комплектацию</h3>
+            </div>
+            <div class="complect-name">
+                <!-- добавлен класс is-active для инициализации цены при загрузке страницы -->
+                <div class="compl1 is-active" data-price="270000">
+                    <!-- для каждой комплектации аттрибут data-price это его начальная цена -->
+                    <p>Стандарт</p>
+                </div>
+                <div class="compl2" data-price="292000">
+                    <p>Бизнес</p>
+                </div>
+                <div class="compl3" data-price="287500">
+                    <p>Смарт</p>
+                </div>
+            </div>
+            <div class="opinion-standart">
+                <div class="opinion-name-standart">
+                    <h4>Опции входящие в комплектацию «Стандарт»:</h4>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="karkas1" class="checkbox"
+                           checked>
+                    <label for="karkas1">Каркас из модульной системы алюминиевых профилей SolarProf</label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="roofNastil" class="checkbox"
+                           checked>
+                    <label for="roofNastil">Крыша из сотового поликарбонат 8 мм</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="glass" class="checkbox"
+                           checked>
+                    <label for="ceiling">Боковые/задние стенки из каленого стекла 8 мм </label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="plastik" class="checkbox"
+                           checked>
+                    <label for="side10">Стеклопластиковая скамья 1700х400 мм
+                    </label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="trash" class="checkbox"
+                           checked>
+                    <label for="trash">Мусорный бак на поворотном кронштейне</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="name" class="checkbox"
+                           checked>
+                    <label for="cornice">Название остановки (аппликация)</label>
+                </div>
+
+            </div>
+
+            <div class="opinion-biznes">
+                <div class="opinion-name-standart">
+                    <h4>Опции входящие в комплектацию «Бизнес»:</h4>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="karkas1" class="checkbox"
+                           checked>
+                    <label for="karkas1">Каркас из модульной системы алюминиевых профилей SolarProf</label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="roofNastil" class="checkbox"
+                           checked>
+                    <label for="roofNastil">Крыша из сотового поликарбонат 8 мм</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="glass" class="checkbox"
+                           checked>
+                    <label for="ceiling">Боковые/задние стенки из каленого стекла 8 мм </label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="plastik" class="checkbox"
+                           checked>
+                    <label for="side10">Стеклопластиковая скамья 1700х400 мм
+                    </label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="trash" class="checkbox"
+                           checked>
+                    <label for="trash">Мусорный бак на поворотном кронштейне</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="name" class="checkbox"
+                           checked>
+                    <label for="cornice">Название остановки (аппликация)</label>
+                </div>
+
+
+            </div>
+
+
+            <div class="opinion-smart">
+                <div class="opinion-name-standart">
+                    <h4>Опции входящие в комплектацию «Смарт»:</h4>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="karkas1" class="checkbox"
+                           checked>
+                    <label for="karkas1">Каркас из модульной системы алюминиевых профилей SolarProf</label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="roofNastil" class="checkbox"
+                           checked>
+                    <label for="roofNastil">Крыша из сотового поликарбонат 8 мм</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="glass" class="checkbox"
+                           checked>
+                    <label for="ceiling">Боковые/задние стенки из каленого стекла 8 мм </label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="plastik" class="checkbox"
+                           checked>
+                    <label for="side10">Стеклопластиковая скамья 1700х400 мм
+                    </label>
+                </div>
+
+                <div class="choises">
+                    <input type="checkbox" id="trash" class="checkbox"
+                           checked>
+                    <label for="trash">Мусорный бак на поворотном кронштейне</label>
+                </div>
+                <div class="choises">
+                    <input type="checkbox" id="name" class="checkbox"
+                           checked>
+                    <label for="cornice">Название остановки (аппликация)</label>
+                </div>
+
+            </div>
+
+
+            <div class="opinion-name-add">
+                <h4>Выберите дополнительные опции:</h4>
+            </div>
+            <div class="opinion-add">
+                <div class="choise">
+                    <input type="checkbox" id="gusak" class="checkbox" data-price="3500"
+                           checked>
+                    <label for="gusak">Гусак для кабеля СИП</label>
+                </div>
+                <div class="choise">
+                    <input type="checkbox" id="map" class="checkbox" data-price="1500"
+                           checked>
+                    <label for="map">Информационно-навигационная карта (аппликация)</label>
+                </div>
+                <div class="choise" data-price="15000" data-image-name>
+                    <input type="checkbox" id="light" class="checkbox" data-price="12500"
+                           checked>
+                    <label for="light">Светодиодная подсветка зоны ожидания</label>
+                </div>
+                <div class="choise">
+                    <input type="checkbox" id="marker" class="checkbox" data-price="12000"
+                           checked>
+                    <label for="marker">Маркер с внутренней подсветкой на крыше павильона</label>
+                </div>
+                <div class="choise">
+                    <input type="checkbox" id="usb" class="checkbox" data-price="3500"
+                           checked>
+                    <label for="usb">USB-порты для подзарядки гаджетов (2 шт.)</label>
+                </div>
+                <div class="choise">
+                    <input type="checkbox" id="wifi" class="checkbox" data-price="9000"
+                           checked>
+                    <label for="wifi">WI-FI роутер </label>
+                </div>
+
+                <div class="choise">
+                    <input type="checkbox" id="tablo" class="checkbox" data-price="99500" checked="">
+                    <label for="tablo">Электронное табло прибытия общественного транспорта </label>
+                </div>
+
+                <div class="choise">
+                    <input type="checkbox" id="videoCam" class="checkbox" data-price="16000"
+                           checked>
+                    <label for="videoCam">Камеры видеонаблюдения – 2 шт. (навстречу и по ходу движения транспорта)
+                    </label>
+                </div>
+
+                <div class="standartNone">
+
+                    <div class="choise">
+                        <input type="checkbox" id="police" class="checkbox" data-price="50000"
+                               checked>
+                        <label for="police">Система «Гражданин-Полиция» </label>
+                    </div>
+
+                    <div class="choise">
+                        <input type="checkbox" id="sound" class="checkbox" data-price="25000"
+                               checked>
+                        <label for="sound">Система звукового оповещения (громкоговоритель) </label>
+                    </div>
+
+                    <div class="choise big">
+                        <input type="checkbox" id="vision" class="checkbox" data-price="55000"
+                               checked>
+                        <label for="vision">Купольная камера видеонаблюдения (поворотная) для видеоаналитики и
+                            распознавания
+                            госномеров транспортных средств </label>
+                    </div>
+                    <div class="choise">
+                        <input type="checkbox" id="ik" class="checkbox" data-price="10000"
+                               checked>
+                        <label for="ik">ИК-обогреватель с датчиком присутствия</label>
+                    </div>
+                    <div class="choiseNew added">
+                        <input type="checkbox" id="PO" class="checkbox" data-price="22000"
+                               checked>
+                        <label for="PO">Коммутационный блок + обвязка</label>
+                    </div>
+                    <div class="choise">
+                        <input type="checkbox" id="adv" class="checkbox" data-price="75000"
+                               checked>
+                        <label for="adv">Рекламно-информационный модуль ситиформата - 1800х1200 мм с внутренней
+                            подсветкой</label>
+                        <!-- добавлен disabled по умолчанию -->
+                        <div class="choise-select">
+                            <select class="adv-select" disabled="disabled" data-price="70000">
+                                <option value="1">Модуль с одной стороны</option>
+                                <option value="2">Модуль с двух стороны</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="choiseNew added">
+                        <input type="checkbox" id="demon" class="checkbox" data-price="51000"
+                               checked>
+                        <label for="demon">Скроллерная система демонстрации рекламы</label>
+
+
+                    </div>
+
+                    <div class="choiseNew added">
+                        <input type="checkbox" id="video" class="checkbox" data-price="230000"
+                               checked>
+                        <label for="video">Видеоэкран ситиформата - 1800х1200 мм (LED P4)
+                        </label>
+
+                    </div>
+
+
+                </div>
+
+
+                <div class="line"></div>
+                <div class="checkout">
+                    <div class="checkout-tittle">
+                        Оформить заказ
+                    </div>
+                    <div class="checkout-call">
+                        Перезвоним в течение часа
+                    </div>
+                    <form method="post" action="#" class="checkout-main-form">
+                        <div class="checkout-name">
+                            <input type="text" placeholder="Ваше имя">
+                        </div>
+                        <div class="checkout-number">
+                            <input type="text" placeholder="+7 (000) 000-00-00">
+                        </div>
+                        <div class="checkout-email">
+                            <input type="text" placeholder="pochta@gmail.com">
+                        </div>
+                        <div class="checkout-text">
+                               <textarea name="Text1" rows="10"
+                                         placeholder="Комментарии к заказу"></textarea>
+                        </div>
+                        <div id="choiseAdd" class="choiseGood">
+                            <input type="checkbox" id="confid" class="checkbox"
+                                   checked>
+                            <label for="confid">Согласен(а) с политикой конфиденциальности</label>
+                        </div>
+                        <div class="checkout-button">
+                            <!-- добавлено скрытое поле для отправки итоговой цены -->
+                            <input type="hidden" name="totalPrice" id="totalPriceHidden">
+                            <button type="submit" class="submit-btn">Отправить</button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script src="main.js"></script>
+<!-- вынес в отдельный файл скрипт подсчета -->
+<script src="calc.js"></script>
+</body>
+</html>

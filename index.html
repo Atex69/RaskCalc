@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://use.typekit.net/qbq0gsx.css">
+    <link rel="stylesheet" type="text/css" href="calculator-style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <title>Тип продукции</title>
+</head>
+<body>
+<div class="menu-container">
+    <a href="http://rask.group/">
+    <div class="grafic-logo-container">
+        <img class="grafic-logo" src="img/logo.svg" alt="logo">
+    </div>
+    </a>
+
+    <nav class="nav-container">
+        <div class="topnav" id="myTopnav">
+            <ul class="topmenu">
+                <li class="topmenu-element usl"><a href="/o-kompanii/" class="down">О компании</a>
+                </li>
+                <li class="topmenu-element prod"><a href="/products/">Продукция</a></li>
+                <li class="topmenu-element comp"><a href="/projects/" class="down">Проекты</a>
+                </li>
+                <li class="topmenu-element press"><a href="/news/">Новости</a></li>
+                <li class="topmenu-element cont"><a href="/contacts/">Контакты</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="menu-container-right-container-1">
+        <a href="#">8-800-5055-917</a>
+
+    </div>
+    <div class="menu-container-right-element">
+        <button class="nav-container-element menu-container-right-element menu-container-right-element-button">
+            <a data-toggle="modal" data-target="#">Заказать звонок</a>
+        </button>
+        <div class="menu-container-img"></div>
+    </div>
+    <div class="burger">
+        <input type="checkbox" id="nav-toggle" hidden>
+        <label for="nav-toggle" class="nav-toggle" onclick></label>
+        <input type="checkbox" id="hmt" class="hidden-menu-ticker">
+        <label class="btn-menu" for="hmt">
+            <span class="first"></span>
+            <span class="second"></span>
+            <span class="third"></span>
+        </label>
+        <div class="btn-menu-empty"></div>
+        <div class="hidden-menu">
+            <div class="grafic-logo-hid-cont"><img class="grafic-logo" src="img/logo.svg" alt="logo"></div>
+            <div class="hidden-menu-element"><a href="">УСЛУГИ</a></div>
+            <div class="hidden-menu-element"><a href="">ПРОДУКЦИЯ</a></div>
+            <div class="hidden-menu-element"><a href="">ПРОЕКТЫ</a></div>
+        </div>
+    </div>
+</div>
+<div class="content-container main-grid">
+    <img class="grids" src="img/grid%202.svg">
+    <div class="calcsMain">
+        <div class="calcsPages"><a href="http://rask.group">Главная </a>/<a href="index.html"> Калькулятор</a></div>
+
+   <div class="calcsTittle">Калькулятор</div>
+
+
+
+        <div class="calcsTittleDesc">Выберите тип продукции</div>
+
+
+        <div class="calcsProducts">
+            <a href="calcPavil/indexPavil.html">
+            <div class="calcsProduct1">
+                <div class="calcsImg1"></div>
+                <div class="calcsDesc">Остановочные павильоны</div>
+
+            </div>
+        </a>
+
+
+            <a href="calcRekl/indexRekl.html">
+                <div class="calcsProduct4">
+                    <div class="calcsImg4"></div>
+                    <div class="calcsDesc">Рекламные конструкции </div>
+                </div>
+            </a>
+
+
+            <a href="calcSmok/indexSmoke.html">
+            <div class="calcsProduct2">
+                <div class="calcsImg2"></div>
+                <div class="calcsDesc">Павильон для курения</div>
+            </div>
+            </a>
+            <a href="calcLight/indexLight.html">
+            <div class="calcsProduct3">
+                <div class="calcsImg3"></div>
+                <div class="calcsDesc">Светодиодные экраны</div>
+            </div>
+            </a>
+
+
+
+            <a href="CalcStreetMebel/indexMebel.html">
+            <div class="calcsProduct9">
+                <div class="calcsImg9"></div>
+                <div class="calcsDesc">Уличная мебель</div>
+            </div>
+            </a>
+
+        </div>
+    </div>
+    </div>
+
+
+
+
+
+<script src="main.js"></script>
+<!-- вынес в отдельный файл скрипт подсчета -->
+<script src="calc.js"></script>
+</body>
+</html>
