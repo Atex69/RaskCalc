@@ -21,6 +21,10 @@ p, div, h1, h3, input {
     margin: 0;
     padding: 0;
 }
+.oferta{
+    font: Lighter 13px Navigo;
+    padding-left: 29px;
+}
 
 .grafic-logo-container {
     display: flex;
@@ -895,11 +899,6 @@ color: #FFFFFF;
     font-family: inherit; /* наследует от родителя */
     font-size: 1rem;
     color: #444;
-}
-
-.oferta{
-    font: Lighter 13px Navigo;
-    padding-left: 29px;
 }
 
 .choise-select:after {

@@ -179,8 +179,6 @@ p, div, h1, h3, input {
 }
 
 .btn-menu {
-    color: black;
-    background-color: black;
     cursor: pointer;
     transition: right .23s;
     z-index: 3;
