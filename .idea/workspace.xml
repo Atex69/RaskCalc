@@ -2,45 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbec4f3d-59bf-4f74-b649-bf4e0d2bd33a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalcStreetMebel/calcStreet/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalcStreetMebel/calcStreetBench/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcLight/calcVideo/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcPavil/calcGoroj/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcPavil/calcLong/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcPavil/calcStandart/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcPavil/calcTrack/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcRekl/calcBord/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcRekl/calcFormat/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcRekl/calcFormatUrn/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcRekl/calcPillar/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcRekl/calcTria/calculator-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcSmok/calculator-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalcStreetMebel/calcStreet/indexStreet.html" beforeDir="false" afterPath="$PROJECT_DIR$/CalcStreetMebel/calcStreet/indexStreet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalcStreetMebel/calcStreetBench/indexStreetBench.html" beforeDir="false" afterPath="$PROJECT_DIR$/CalcStreetMebel/calcStreetBench/indexStreetBench.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcLight/calcVideo/indexVideo.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcLight/calcVideo/indexVideo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcLight/calculator-styleLight.css" beforeDir="false" afterPath="$PROJECT_DIR$/calcLight/calculator-styleLight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcLight/indexLight.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcLight/indexLight.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calc/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calc/calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calc/calculator-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calc/calculator-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcPavil/calc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcGoroj/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcGoroj/calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcGoroj/calculator-styleGoroj.css" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcGoroj/calculator-styleGoroj.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcPavil/calcGoroj/indexGoroj.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcGoroj/indexGoroj.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcGorojLong/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcGorojLong/calc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcPavil/calcGorojLong/indexGorojLong.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcGorojLong/indexGorojLong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcLong/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcLong/calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcLong/calculatorLong-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcLong/calculatorLong-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcPavil/calcLong/indexLong.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcLong/indexLong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcStandart/indexStandart.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcStandart/indexStandart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcPavil/calcTrack/indexTrack.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcPavil/calcTrack/indexTrack.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcRekl/calcBord/indexBord.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcRekl/calcBord/indexBord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcRekl/calcFormat/indexFormat.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcRekl/calcFormat/indexFormat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcRekl/calcFormatUrn/indexFormatUrn.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcRekl/calcFormatUrn/indexFormatUrn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcRekl/calcPillar/indexPillar.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcRekl/calcPillar/indexPillar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcRekl/calcTria/indexPillarTria.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcRekl/calcTria/indexPillarTria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcSmok/indexSmoke.html" beforeDir="false" afterPath="$PROJECT_DIR$/calcSmok/indexSmoke.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,17 +81,35 @@
       <workItem from="1582822214623" duration="1764000" />
       <workItem from="1585056058647" duration="2096000" />
       <workItem from="1585071711227" duration="750000" />
-      <workItem from="1585085001350" duration="8290000" />
+      <workItem from="1585085001350" duration="9730000" />
+      <workItem from="1585129209859" duration="3212000" />
+      <workItem from="1585216450179" duration="599000" />
     </task>
+    <task id="LOCAL-00001" summary="upaaate">
+      <created>1585095000114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585095000114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upaaate" />
+    <option name="LAST_COMMIT_MESSAGE" value="upaaate" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585094879647">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585218152631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585094879647" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585218152631" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585095003899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585095003899" />
   </component>
 </project>
